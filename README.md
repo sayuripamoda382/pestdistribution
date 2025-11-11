@@ -1,6 +1,6 @@
 # Mapping and Analyzing the Distribution and Severity of Meloidogyne graminicola in Rice
 
-This is under consultancy pojects no.02
+This is under consultancy project no.02
 
 This study was carried out as an observational field survey during the "Maha" season of 2024. 
 From each district, rice plant samples (n = 30 per field) were collected. The severity of nematode 
