@@ -1,4 +1,4 @@
-# About
+# Mapping and Analyzing the Distribution and Severity of Meloidogyne graminicola in Rice
 
 This is under consultancy pojects no.02
 
@@ -11,3 +11,8 @@ Geospatial data tools, particularly the ArcGIS mapping platform, were employed t
 specific data such as agro-ecological region, dominant soil type, and terrain characteristics, based 
 on GPS coordinates of each sampled location. These mapped layers support the spatial analysis of 
 nematode distribution and help in identifying regional risk patterns.
+
+## Objectives
+
+• To map the regions of pest distribution and severity of pest in the respective areas.  
+• To identify factors that contribute to the spread of the pest.  
